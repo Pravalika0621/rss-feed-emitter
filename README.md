@@ -165,12 +165,3 @@ feeder.destroy();
 > This will remove all feeds from the instance
 
 
-## Contributors
-
-| [<img src="https://avatars3.githubusercontent.com/u/7128721?s=400&v=4" width="155"><br><sub>@TobiTenno</sub>](https://github.com/TobiTenno) |
-| :---: |
-
-## Author
-
-| [<img src="https://avatars0.githubusercontent.com/u/4248081?v=3&s=115" width="155"><br><sub>@filipedeschamps</sub>](https://github.com/filipedeschamps) |
-| :---: |
